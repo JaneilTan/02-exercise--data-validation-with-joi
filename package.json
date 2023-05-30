@@ -19,5 +19,7 @@
     "jest": "^27.2.5",
     "prettier": "^2.4.1"
   },
-  "dependencies": {}
+  "dependencies": {
+    "joi": "^17.9.2"
+  }
 }
